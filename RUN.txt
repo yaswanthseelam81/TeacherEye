@@ -1,0 +1,8 @@
+=== FLASK (Backend) ===
+cd C:\Users\yaswa\TeacherEye\teachereye_api
+.venv\Scripts\activate
+python app.py
+
+=== FLUTTER (Frontend) ===
+cd C:\Users\yaswa\TeacherEye
+flutter run -d windows
